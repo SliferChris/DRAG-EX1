@@ -1,0 +1,42 @@
+ #photos {
+     float: right;
+ }
+ 
+ #photos li {
+     list-style: none;
+     display: inline;
+     margin-right: 50px;
+ }
+ 
+ .highlight {
+     opacity: 1 !important;
+     
+ }
+ 
+ .content {
+     width: 200px;
+     margin: 30px;
+ }
+.content img  {
+     opacity: .6;
+     
+ }
+.instructions {
+    
+    font-size: 44px;
+    font-family: "Verdana";
+    color:#c13636;
+    width:1000px;
+    margin:0px auto;
+    clear:right;
+    
+}
+header{
+    
+    width:500px;
+    margin: 50px auto;
+    font-size: 44px;
+    font-family: "Arial";
+    color:#3661c1;
+    
+}
